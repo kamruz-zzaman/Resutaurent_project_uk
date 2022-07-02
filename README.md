@@ -5,9 +5,7 @@ Built with [React](https://facebook.github.io/react/), [Material-UI](https://mat
 
 **This version uses React 16.14.0, React Router v5, MaterialUI v4, built with React Hooks and React Context (No Redux)**
 
-## Full Version
 
-This is a limited version of [**Full React Material Admin**](https://flatlogic.com/templates/react-material-admin-full/demo) with more components, pages and theme support.
 
 ## Features
 
